@@ -1,4 +1,4 @@
-# another-pixel-character 🖋️
+# another-pixel-character 👾
 
 > **Una fuente de estilo pixel art diseñada para ser altamente legible.** > Este repositorio contiene los archivos de la fuente listos para usar, además de los recursos que se usaron.
 
@@ -37,6 +37,5 @@ Para utilizar esta fuente en tus proyectos, puedes:
 
 ---
 
-### ✍️ Notas del Autor
-> [!IMPORTANT]
+> [Nota]
 > El archivo de **Aseprite** se incluye como una utilidad para quienes deseen ver el proceso o necesiten una base para modificaciones. Ten en cuenta que la versión completa de **230 caracteres** se gestiona directamente en el archivo principal de la fuente. Pronto arreglare esto
