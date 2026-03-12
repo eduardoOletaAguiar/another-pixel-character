@@ -6,7 +6,7 @@
 
 ### 🚀 Características Actuales
 * **Cobertura Global:** * Soporte completo para los alfabetos **español** e **inglés**.
-* **Volumen de Glifos:** * **+230 caracteres** (aprox. 6 glifos).
+* **Tamaño:** * **+230 caracteres** (aprox. 6 glifos).
 * **Estilo Visual:** * Pixel art ideado para ser comodo a la vista.
 * **Formatos:** * Archivo TypeTrue listo para instalar
 
